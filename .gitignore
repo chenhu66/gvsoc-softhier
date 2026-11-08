@@ -24,6 +24,8 @@ softhier.log
 data*.h
 *_trace.json
 geo.json
+<<<<<<< HEAD
 *.stk
 *.flp
 *power_trace*
+.aider*
